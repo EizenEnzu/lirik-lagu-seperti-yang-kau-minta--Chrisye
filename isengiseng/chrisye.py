@@ -2,7 +2,7 @@ import time,sys
 
 print("============================")
 print("Seperti yang kau minta",)
-print("cipt: Chrisye",)
+print("cipt: Pongki Barata")
 print("============================")
 print("")
 time.sleep(4)
